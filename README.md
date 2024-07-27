@@ -18,16 +18,11 @@ The `CyberNet Domain Finder` tool helps users check domain availability and sugg
     cd CyberNet-Domain-Finder
     ```
 
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Run the application:
     ```bash
-    python main.py
+    python cyberNetCustomTkTest.py
     ```
 
 2. Enter a domain name into the input field and click "Done" to check its availability and receive suggestions.
@@ -36,7 +31,6 @@ The `CyberNet Domain Finder` tool helps users check domain availability and sugg
 
 - `customtkinter`
 - `requests`
-- `openai`
 
 ## License
 
