@@ -2,13 +2,13 @@
 
 ## Description
 
-The `CyberNet Domain Finder` tool helps users check domain availability and suggests creative alternatives. It features a clear and intuitive GUI built with `CustomTkinter`. The tool scans multiple top-level domains and provides suggestions for unavailable domains. Future updates may include advanced features and improved suggestion algorithms.
+The `CyberNet Domain Finder` tool helps users check domain availability and suggests creative alternatives. It features a clear and intuitive GUI built with `CustomTkinter`. For users without `CustomTkinter`, a default Tkinter implementation named `cyberNetDomainChecker.py` is also provided. The tool scans multiple top-level domains and provides suggestions for unavailable domains. Future updates may include advanced features and improved suggestion algorithms.
 
 ## Features
 
 - **Domain Availability Check**: Verifies if a domain is available across multiple top-level domains.
 - **Alternative Suggestions**: Provides creative alternative domain names when the original is taken.
-- **User-Friendly GUI**: Built with `CustomTkinter` for a clean and intuitive user experience.
+- **User-Friendly GUI**: Built with `CustomTkinter` for a clean and intuitive user experience. A default Tkinter version is also available.
 
 ## Installation
 
